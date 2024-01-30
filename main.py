@@ -1,4 +1,4 @@
-from tasks import TodoList
+from task import TodoList
 
 def main():
     todo_list = TodoList()
