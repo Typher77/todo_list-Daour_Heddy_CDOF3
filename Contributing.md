@@ -7,7 +7,8 @@ Thank you for considering contributing to the Todo List project! By contributing
 ## Fork the repository to your GitHub account.
 Clone the forked repository to your local machine.
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Didy-12/todo_list-Daour_Heddy_CDOF3.git
+
 cd todo-list
 
 ## Create a new branch for your contribution.
