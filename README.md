@@ -26,6 +26,10 @@ git clone Didy-12/todo_list-Daour_Heddy_CDOF3
 ```
 cd todo-list
 ```
+## Give the right to main.py
+```
+chmod +x main.py
+```
 ## Run the main script.
 ```
 python main.py
