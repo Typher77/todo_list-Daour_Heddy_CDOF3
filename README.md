@@ -9,7 +9,9 @@ Todo list application, aiming to help users keep track of tasks by allowing them
 These instructions will help you set up the project on your local machine for development and testing purposes.
 
 ## Prerequisites
-Ensure you have Python installed on your machine. You can download it from python.org.
+Ensure you have Python installed on your machine.If you don't use this command:
+
+sudo apt-get install python3
 
 ## Installing
 Clone the repository to your local machine.
