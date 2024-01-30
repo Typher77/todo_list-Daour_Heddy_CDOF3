@@ -4,6 +4,10 @@
 A simple console-based Todo List application that allows users to manage their tasks efficiently.
 Todo list application, aiming to help users keep track of tasks by allowing them to add, delete, and complete tasks.
 
+## Exemple of the different features
+<img width="418" alt="Capture d’écran 2024-01-30 à 13 47 44" src="https://github.com/Didy-12/todo_list-Daour_Heddy_CDOF3/assets/120495158/203063e4-205a-4e97-a6b3-1653731a1286">
+
+
 ## Getting Started
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
