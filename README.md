@@ -15,17 +15,17 @@ sudo apt-get install python3
 ```
 ## Installing
 Clone the repository to your local machine.
-
+```
 git clone Didy-12/todo_list-Daour_Heddy_CDOF3
-
+```
 ## Navigate to the project directory.
-
+```
 cd todo-list
-
+```
 ## Run the main script.
-
+```
 python main.py
-
+```
 Follow the on-screen instructions to interact with the Todo List application.
 
 ## Built With
