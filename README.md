@@ -2,6 +2,7 @@
 
 
 A simple console-based Todo List application that allows users to manage their tasks efficiently.
+Todo list application, aiming to help users keep track of tasks by allowing them to add, delete, and complete tasks.
 
 ## Getting Started
 
@@ -13,7 +14,7 @@ Ensure you have Python installed on your machine. You can download it from pytho
 ## Installing
 Clone the repository to your local machine.
 
-git clone https://github.com/your-username/todo-list.git
+git clone Didy-12/todo_list-Daour_Heddy_CDOF3
 
 ## Navigate to the project directory.
 
