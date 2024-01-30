@@ -10,9 +10,9 @@ These instructions will help you set up the project on your local machine for de
 
 ## Prerequisites
 Ensure you have Python installed on your machine.If you don't use this command:
-
+```
 sudo apt-get install python3
-
+```
 ## Installing
 Clone the repository to your local machine.
 
