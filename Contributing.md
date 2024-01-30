@@ -6,24 +6,25 @@ Thank you for considering contributing to the Todo List project! By contributing
 
 ## Fork the repository to your GitHub account.
 Clone the forked repository to your local machine.
-
+```
 git clone https://github.com/Didy-12/todo_list-Daour_Heddy_CDOF3.git
 
 cd todo-list
-
+```
 ## Create a new branch for your contribution.
-
+```
 git checkout -b feature/your-feature-name
+```
 Make your changes and test thoroughly.
 
 ## Commit your changes.
-
+```
 git commit -m "Add your meaningful commit message"
-
+```
 ## Push your changes to your forked repository.
-
+```
 git push origin feature/your-feature-name
-
+```
 ## Open a pull request against the main branch of the original repository.
 
 
