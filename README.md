@@ -32,7 +32,7 @@ chmod +x main.py
 ```
 ## Run the main script.
 ```
-./main.py
+python main.py
 ```
 Follow the on-screen instructions to interact with the Todo List application.
 
